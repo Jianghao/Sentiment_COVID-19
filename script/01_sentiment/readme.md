@@ -1,4 +1,5 @@
 01_sentiment/ : sentiment imputation, see the repository: https://github.com/MIT-SUL-Team/global-sentiment
+
     - data: the traning and labeled_data for the global sentiment imputation
     - dict/sentiment_dicts: the emoji, hedonometer, and LIWC dictionaries
     - models: the multilingual data for the sentiment
