@@ -13,7 +13,6 @@ If you have questions or suggestions, please contact Jianghao Wang at wangjh@mit
 ## Organization of repository
 - input: all the necessary input data 
 - figures: the main text final figures
-- tables: output tables
 - script:
   - 01_sentiment/ : sentiment imputation, see the repository: https://github.com/MIT-SUL-Team/global-sentiment
     - data: the traning and labeled_data for the global sentiment imputation
