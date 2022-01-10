@@ -13,9 +13,6 @@ If you have questions or suggestions, please contact Jianghao Wang at wangjh@mit
 ## Organization of repository
 - input: all the necessary input data 
 - figures: the main text final figures
-  - fig1/
-  - fig2/
-  - fig3/
 - tables: output tables
 - script:
   - 01_sentiment/ : sentiment imputation, see the repository: https://github.com/MIT-SUL-Team/global-sentiment
@@ -37,7 +34,6 @@ If you have questions or suggestions, please contact Jianghao Wang at wangjh@mit
         - `dict_sentiment_imputer.py`
         - `emb_clf_setup_utils.py`
         - `emb_sentiment_imputer.py`
-  - 02_visual/: exploration analysis
-  - 03_sentiment_recovery/: model the sentiment recovery half-life 
-  - 04_sentiment_shock/: model the sentiment shock size
-  - 05_lockdown_effect/: model the impact of lockdown on expressed sentiment
+  - 02_visual/: exploration analysis, see details in `figures`.
+  - 03_sentiment_recovery/: This section reproduce the result of `Expressed sentiment alterations during COVID-19 pandemic`： the first measure--recovery half-life.
+  - 04_sentiment_shock_and_lockdown_effect/: This section reproduce the result of `Expressed sentiment alterations during COVID-19 pandemic`： the second measure--sentiment drop and the results of `Impacts of lockdowns on expressed sentiment`
