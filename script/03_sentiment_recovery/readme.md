@@ -1,0 +1,1 @@
+This section reproduce the result of `Expressed sentiment alterations during COVID-19 pandemic`： the first measure--recovery half-life.

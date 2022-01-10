@@ -1,0 +1,1 @@
+This section reproduce the result of `Expressed sentiment alterations during COVID-19 pandemic`： the second measure--sentiment drop and the results of `Impacts of lockdowns on expressed sentiment`
