@@ -1,0 +1,256 @@
+,Continent_Name,Continent_Code,Country_Name,Two_Letter_Country_Code,Three_Letter_Country_Code,Two_Letter_Country_Code,Country_Number,Three_Letter_Country_Code,country,Three_Letter_Country_Code
+1,Asia,AS,"Afghanistan, Islamic Republic of",AF,AFG,AF,4,AFG,Afghanistan,AFG
+2,Europe,EU,"Albania, Republic of",AL,ALB,AL,8,ALB,Albania,ALB
+3,Antarctica,AN,Antarctica (the territory South of 60 deg S),AQ,ATA,AQ,10,ATA,Antarctica,ATA
+4,Africa,AF,"Algeria, People's Democratic Republic of",DZ,DZA,DZ,12,DZA,Algeria,DZA
+5,Oceania,OC,American Samoa,AS,ASM,AS,16,ASM,American Samoa,ASM
+6,Europe,EU,"Andorra, Principality of",AD,AND,AD,20,AND,Andorra,AND
+7,Africa,AF,"Angola, Republic of",AO,AGO,AO,24,AGO,Angola,AGO
+8,North America,NA,Antigua and Barbuda,AG,ATG,AG,28,ATG,Antigua and Barbuda,ATG
+9,Europe,EU,"Azerbaijan, Republic of",AZ,AZE,AZ,31,AZE,Azerbaijan,AZE
+10,Asia,AS,"Azerbaijan, Republic of",AZ,AZE,AZ,31,AZE,Azerbaijan,AZE
+11,South America,SA,"Argentina, Argentine Republic",AR,ARG,AR,32,ARG,Argentina,ARG
+12,Oceania,OC,"Australia, Commonwealth of",AU,AUS,AU,36,AUS,Australia,AUS
+13,Europe,EU,"Austria, Republic of",AT,AUT,AT,40,AUT,Austria,AUT
+14,North America,NA,"Bahamas, Commonwealth of the",BS,BHS,BS,44,BHS,Bahamas,BHS
+15,Asia,AS,"Bahrain, Kingdom of",BH,BHR,BH,48,BHR,Bahrain,BHR
+16,Asia,AS,"Bangladesh, People's Republic of",BD,BGD,BD,50,BGD,Bangladesh,BGD
+17,Europe,EU,"Armenia, Republic of",AM,ARM,AM,51,ARM,Armenia,ARM
+18,Asia,AS,"Armenia, Republic of",AM,ARM,AM,51,ARM,Armenia,ARM
+19,North America,NA,Barbados,BB,BRB,BB,52,BRB,Barbados,BRB
+20,Europe,EU,"Belgium, Kingdom of",BE,BEL,BE,56,BEL,Belgium,BEL
+21,North America,NA,Bermuda,BM,BMU,BM,60,BMU,Bermuda,BMU
+22,Asia,AS,"Bhutan, Kingdom of",BT,BTN,BT,64,BTN,Bhutan,BTN
+23,South America,SA,"Bolivia, Republic of",BO,BOL,BO,68,BOL,Bolivia,BOL
+24,Europe,EU,Bosnia and Herzegovina,BA,BIH,BA,70,BIH,Bosnia and Herzegovina,BIH
+25,Africa,AF,"Botswana, Republic of",BW,BWA,BW,72,BWA,Botswana,BWA
+26,Antarctica,AN,Bouvet Island (Bouvetoya),BV,BVT,BV,74,BVT,Bouvet Island,BVT
+27,South America,SA,"Brazil, Federative Republic of",BR,BRA,BR,76,BRA,Brazil,BRA
+28,North America,NA,Belize,BZ,BLZ,BZ,84,BLZ,Belize,BLZ
+29,Asia,AS,British Indian Ocean Territory (Chagos Archipelago),IO,IOT,IO,86,IOT,British Indian Ocean Territory,IOT
+30,Oceania,OC,Solomon Islands,SB,SLB,SB,90,SLB,Solomon Islands,SLB
+31,North America,NA,British Virgin Islands,VG,VGB,VG,92,VGB,"Virgin Islands, British",VGB
+32,Asia,AS,Brunei Darussalam,BN,BRN,BN,96,BRN,Brunei Darussalam,BRN
+33,Europe,EU,"Bulgaria, Republic of",BG,BGR,BG,100,BGR,Bulgaria,BGR
+34,Asia,AS,"Myanmar, Union of",MM,MMR,MM,104,MMR,Myanmar,MMR
+35,Africa,AF,"Burundi, Republic of",BI,BDI,BI,108,BDI,Burundi,BDI
+36,Europe,EU,"Belarus, Republic of",BY,BLR,BY,112,BLR,Belarus,BLR
+37,Asia,AS,"Cambodia, Kingdom of",KH,KHM,KH,116,KHM,Cambodia,KHM
+38,Africa,AF,"Cameroon, Republic of",CM,CMR,CM,120,CMR,Cameroon,CMR
+39,North America,NA,Canada,CA,CAN,CA,124,CAN,Canada,CAN
+40,Africa,AF,"Cape Verde, Republic of",CV,CPV,CV,132,CPV,Cape Verde,CPV
+41,North America,NA,Cayman Islands,KY,CYM,KY,136,CYM,Cayman Islands,CYM
+42,Africa,AF,Central African Republic,CF,CAF,CF,140,CAF,Central African Republic,CAF
+43,Asia,AS,"Sri Lanka, Democratic Socialist Republic of",LK,LKA,LK,144,LKA,Sri Lanka,LKA
+44,Africa,AF,"Chad, Republic of",TD,TCD,TD,148,TCD,Chad,TCD
+45,South America,SA,"Chile, Republic of",CL,CHL,CL,152,CHL,Chile,CHL
+46,Asia,AS,"China, People's Republic of",CN,CHN,CN,156,CHN,China,CHN
+47,Asia,AS,Taiwan,TW,TWN,TW,158,TWN,"Taiwan, Province of China",TWN
+48,Asia,AS,Christmas Island,CX,CXR,CX,162,CXR,Christmas Island,CXR
+49,Asia,AS,Cocos (Keeling) Islands,CC,CCK,CC,166,CCK,Cocos (Keeling) Islands,CCK
+50,South America,SA,"Colombia, Republic of",CO,COL,CO,170,COL,Colombia,COL
+51,Africa,AF,"Comoros, Union of the",KM,COM,KM,174,COM,Comoros,COM
+52,Africa,AF,Mayotte,YT,MYT,YT,175,MYT,Mayotte,MYT
+53,Africa,AF,"Congo, Republic of the",CG,COG,CG,178,COG,Republic of Congo,COG
+54,Africa,AF,"Congo, Democratic Republic of the",CD,COD,CD,180,COD,Democratic Republic of the Congo,COD
+55,Oceania,OC,Cook Islands,CK,COK,CK,184,COK,Cook Islands,COK
+56,North America,NA,"Costa Rica, Republic of",CR,CRI,CR,188,CRI,Costa Rica,CRI
+57,Europe,EU,"Croatia, Republic of",HR,HRV,HR,191,HRV,Croatia,HRV
+58,North America,NA,"Cuba, Republic of",CU,CUB,CU,192,CUB,Cuba,CUB
+59,Europe,EU,"Cyprus, Republic of",CY,CYP,CY,196,CYP,Cyprus,CYP
+60,Asia,AS,"Cyprus, Republic of",CY,CYP,CY,196,CYP,Cyprus,CYP
+61,Europe,EU,Czech Republic,CZ,CZE,CZ,203,CZE,Czech Republic,CZE
+62,Africa,AF,"Benin, Republic of",BJ,BEN,BJ,204,BEN,Benin,BEN
+63,Europe,EU,"Denmark, Kingdom of",DK,DNK,DK,208,DNK,Denmark,DNK
+64,North America,NA,"Dominica, Commonwealth of",DM,DMA,DM,212,DMA,Dominica,DMA
+65,North America,NA,Dominican Republic,DO,DOM,DO,214,DOM,Dominican Republic,DOM
+66,South America,SA,"Ecuador, Republic of",EC,ECU,EC,218,ECU,Ecuador,ECU
+67,North America,NA,"El Salvador, Republic of",SV,SLV,SV,222,SLV,El Salvador,SLV
+68,Africa,AF,"Equatorial Guinea, Republic of",GQ,GNQ,GQ,226,GNQ,Equatorial Guinea,GNQ
+69,Africa,AF,"Ethiopia, Federal Democratic Republic of",ET,ETH,ET,231,ETH,Ethiopia,ETH
+70,Africa,AF,"Eritrea, State of",ER,ERI,ER,232,ERI,Eritrea,ERI
+71,Europe,EU,"Estonia, Republic of",EE,EST,EE,233,EST,Estonia,EST
+72,Europe,EU,Faroe Islands,FO,FRO,FO,234,FRO,Faroe Islands,FRO
+73,South America,SA,Falkland Islands (Malvinas),FK,FLK,FK,238,FLK,Falkland Islands (Malvinas),FLK
+74,Antarctica,AN,South Georgia and the South Sandwich Islands,GS,SGS,GS,239,SGS,South Georgia and the South Sandwich Islands,SGS
+75,Oceania,OC,"Fiji, Republic of the Fiji Islands",FJ,FJI,FJ,242,FJI,Fiji,FJI
+76,Europe,EU,"Finland, Republic of",FI,FIN,FI,246,FIN,Finland,FIN
+77,Europe,EU,?and Islands,AX,ALA,AX,248,ALA,?and Islands,ALA
+78,Europe,EU,"France, French Republic",FR,FRA,FR,250,FRA,France,FRA
+79,South America,SA,French Guiana,GF,GUF,GF,254,GUF,French Guiana,GUF
+80,Oceania,OC,French Polynesia,PF,PYF,PF,258,PYF,French Polynesia,PYF
+81,Antarctica,AN,French Southern Territories,TF,ATF,TF,260,ATF,French Southern Territories,ATF
+82,Africa,AF,"Djibouti, Republic of",DJ,DJI,DJ,262,DJI,Djibouti,DJI
+83,Africa,AF,"Gabon, Gabonese Republic",GA,GAB,GA,266,GAB,Gabon,GAB
+84,Europe,EU,Georgia,GE,GEO,GE,268,GEO,Georgia,GEO
+85,Asia,AS,Georgia,GE,GEO,GE,268,GEO,Georgia,GEO
+86,Africa,AF,"Gambia, Republic of the",GM,GMB,GM,270,GMB,Gambia,GMB
+87,Asia,AS,"Palestinian Territory, Occupied",PS,PSE,PS,275,PSE,"Palestinian Territory, Occupied",PSE
+88,Europe,EU,"Germany, Federal Republic of",DE,DEU,DE,276,DEU,Germany,DEU
+89,Africa,AF,"Ghana, Republic of",GH,GHA,GH,288,GHA,Ghana,GHA
+90,Europe,EU,Gibraltar,GI,GIB,GI,292,GIB,Gibraltar,GIB
+91,Oceania,OC,"Kiribati, Republic of",KI,KIR,KI,296,KIR,Kiribati,KIR
+92,Europe,EU,"Greece, Hellenic Republic",GR,GRC,GR,300,GRC,Greece,GRC
+93,North America,NA,Greenland,GL,GRL,GL,304,GRL,Greenland,GRL
+94,North America,NA,Grenada,GD,GRD,GD,308,GRD,Grenada,GRD
+95,North America,NA,Guadeloupe,GP,GLP,GP,312,GLP,Guadeloupe,GLP
+96,Oceania,OC,Guam,GU,GUM,GU,316,GUM,Guam,GUM
+97,North America,NA,"Guatemala, Republic of",GT,GTM,GT,320,GTM,Guatemala,GTM
+98,Africa,AF,"Guinea, Republic of",GN,GIN,GN,324,GIN,Guinea,GIN
+99,South America,SA,"Guyana, Co-operative Republic of",GY,GUY,GY,328,GUY,Guyana,GUY
+100,North America,NA,"Haiti, Republic of",HT,HTI,HT,332,HTI,Haiti,HTI
+101,Antarctica,AN,Heard Island and McDonald Islands,HM,HMD,HM,334,HMD,Heard Island and McDonald Islands,HMD
+102,Europe,EU,Holy See (Vatican City State),VA,VAT,VA,336,VAT,Holy See (Vatican City State),VAT
+103,North America,NA,"Honduras, Republic of",HN,HND,HN,340,HND,Honduras,HND
+104,Asia,AS,"Hong Kong, Special Administrative Region of China",HK,HKG,HK,344,HKG,Hong Kong,HKG
+105,Europe,EU,"Hungary, Republic of",HU,HUN,HU,348,HUN,Hungary,HUN
+106,Europe,EU,"Iceland, Republic of",IS,ISL,IS,352,ISL,Iceland,ISL
+107,Asia,AS,"India, Republic of",IN,IND,IN,356,IND,India,IND
+108,Asia,AS,"Indonesia, Republic of",ID,IDN,ID,360,IDN,Indonesia,IDN
+109,Asia,AS,"Iran, Islamic Republic of",IR,IRN,IR,364,IRN,Iran,IRN
+110,Asia,AS,"Iraq, Republic of",IQ,IRQ,IQ,368,IRQ,Iraq,IRQ
+111,Europe,EU,Ireland,IE,IRL,IE,372,IRL,Ireland,IRL
+112,Asia,AS,"Israel, State of",IL,ISR,IL,376,ISR,Israel,ISR
+113,Europe,EU,"Italy, Italian Republic",IT,ITA,IT,380,ITA,Italy,ITA
+114,Africa,AF,"Cote d'Ivoire, Republic of",CI,CIV,CI,384,CIV,"Cote d'Ivoire, Republic of",CIV
+115,North America,NA,Jamaica,JM,JAM,JM,388,JAM,Jamaica,JAM
+116,Asia,AS,Japan,JP,JPN,JP,392,JPN,Japan,JPN
+117,Europe,EU,"Kazakhstan, Republic of",KZ,KAZ,KZ,398,KAZ,Kazakhstan,KAZ
+118,Asia,AS,"Kazakhstan, Republic of",KZ,KAZ,KZ,398,KAZ,Kazakhstan,KAZ
+119,Asia,AS,"Jordan, Hashemite Kingdom of",JO,JOR,JO,400,JOR,Jordan,JOR
+120,Africa,AF,"Kenya, Republic of",KE,KEN,KE,404,KEN,Kenya,KEN
+121,Asia,AS,"Korea, Democratic People's Republic of",KP,PRK,KP,408,PRK,"Korea, Democratic People's Republic of",PRK
+122,Asia,AS,"Korea, Republic of",KR,KOR,KR,410,KOR,Korea,KOR
+123,Asia,AS,"Kuwait, State of",KW,KWT,KW,414,KWT,Kuwait,KWT
+124,Asia,AS,Kyrgyz Republic,KG,KGZ,KG,417,KGZ,Kyrgyzstan,KGZ
+125,Asia,AS,Lao People's Democratic Republic,LA,LAO,LA,418,LAO,Lao People's Democratic Republic,LAO
+126,Asia,AS,"Lebanon, Lebanese Republic",LB,LBN,LB,422,LBN,Lebanon,LBN
+127,Africa,AF,"Lesotho, Kingdom of",LS,LSO,LS,426,LSO,Lesotho,LSO
+128,Europe,EU,"Latvia, Republic of",LV,LVA,LV,428,LVA,Latvia,LVA
+129,Africa,AF,"Liberia, Republic of",LR,LBR,LR,430,LBR,Liberia,LBR
+130,Africa,AF,Libyan Arab Jamahiriya,LY,LBY,LY,434,LBY,Libya,LBY
+131,Europe,EU,"Liechtenstein, Principality of",LI,LIE,LI,438,LIE,Liechtenstein,LIE
+132,Europe,EU,"Lithuania, Republic of",LT,LTU,LT,440,LTU,Lithuania,LTU
+133,Europe,EU,"Luxembourg, Grand Duchy of",LU,LUX,LU,442,LUX,Luxembourg,LUX
+134,Asia,AS,"Macao, Special Administrative Region of China",MO,MAC,MO,446,MAC,Macao,MAC
+135,Africa,AF,"Madagascar, Republic of",MG,MDG,MG,450,MDG,Madagascar,MDG
+136,Africa,AF,"Malawi, Republic of",MW,MWI,MW,454,MWI,Malawi,MWI
+137,Asia,AS,Malaysia,MY,MYS,MY,458,MYS,Malaysia,MYS
+138,Asia,AS,"Maldives, Republic of",MV,MDV,MV,462,MDV,Maldives,MDV
+139,Africa,AF,"Mali, Republic of",ML,MLI,ML,466,MLI,Mali,MLI
+140,Europe,EU,"Malta, Republic of",MT,MLT,MT,470,MLT,Malta,MLT
+141,North America,NA,Martinique,MQ,MTQ,MQ,474,MTQ,Martinique,MTQ
+142,Africa,AF,"Mauritania, Islamic Republic of",MR,MRT,MR,478,MRT,Mauritania,MRT
+143,Africa,AF,"Mauritius, Republic of",MU,MUS,MU,480,MUS,Mauritius,MUS
+144,North America,NA,"Mexico, United Mexican States",MX,MEX,MX,484,MEX,Mexico,MEX
+145,Europe,EU,"Monaco, Principality of",MC,MCO,MC,492,MCO,Monaco,MCO
+146,Asia,AS,Mongolia,MN,MNG,MN,496,MNG,Mongolia,MNG
+147,Europe,EU,"Moldova, Republic of",MD,MDA,MD,498,MDA,Moldova,MDA
+148,Europe,EU,"Montenegro, Republic of",ME,MNE,ME,499,MNE,Montenegro,MNE
+149,North America,NA,Montserrat,MS,MSR,MS,500,MSR,Montserrat,MSR
+150,Africa,AF,"Morocco, Kingdom of",MA,MAR,MA,504,MAR,Morocco,MAR
+151,Africa,AF,"Mozambique, Republic of",MZ,MOZ,MZ,508,MOZ,Mozambique,MOZ
+152,Asia,AS,"Oman, Sultanate of",OM,OMN,OM,512,OMN,Oman,OMN
+153,Africa,AF,"Namibia, Republic of",NA,NAM,NA,516,NAM,Namibia,NAM
+154,Oceania,OC,"Nauru, Republic of",NR,NRU,NR,520,NRU,Nauru,NRU
+155,Asia,AS,"Nepal, State of",NP,NPL,NP,524,NPL,Nepal,NPL
+156,Europe,EU,"Netherlands, Kingdom of the",NL,NLD,NL,528,NLD,Netherlands,NLD
+157,North America,NA,Netherlands Antilles,AN,ANT,AN,530,ANT,Netherlands Antilles,ANT
+159,North America,NA,Aruba,AW,ABW,AW,533,ABW,Aruba,ABW
+162,Oceania,OC,New Caledonia,NC,NCL,NC,540,NCL,New Caledonia,NCL
+163,Oceania,OC,"Vanuatu, Republic of",VU,VUT,VU,548,VUT,Vanuatu,VUT
+164,Oceania,OC,New Zealand,NZ,NZL,NZ,554,NZL,New Zealand,NZL
+165,North America,NA,"Nicaragua, Republic of",NI,NIC,NI,558,NIC,Nicaragua,NIC
+166,Africa,AF,"Niger, Republic of",NE,NER,NE,562,NER,Niger,NER
+167,Africa,AF,"Nigeria, Federal Republic of",NG,NGA,NG,566,NGA,Nigeria,NGA
+168,Oceania,OC,Niue,NU,NIU,NU,570,NIU,Niue,NIU
+169,Oceania,OC,Norfolk Island,NF,NFK,NF,574,NFK,Norfolk Island,NFK
+170,Europe,EU,"Norway, Kingdom of",NO,NOR,NO,578,NOR,Norway,NOR
+171,Oceania,OC,"Northern Mariana Islands, Commonwealth of the",MP,MNP,MP,580,MNP,Northern Mariana Islands,MNP
+172,Oceania,OC,United States Minor Outlying Islands,UM,UMI,UM,581,UMI,United States Minor Outlying Islands,UMI
+173,North America,NA,United States Minor Outlying Islands,UM,UMI,UM,581,UMI,United States Minor Outlying Islands,UMI
+174,Oceania,OC,"Micronesia, Federated States of",FM,FSM,FM,583,FSM,Micronesia,FSM
+175,Oceania,OC,"Marshall Islands, Republic of the",MH,MHL,MH,584,MHL,Marshall Islands,MHL
+176,Oceania,OC,"Palau, Republic of",PW,PLW,PW,585,PLW,Palau,PLW
+177,Asia,AS,"Pakistan, Islamic Republic of",PK,PAK,PK,586,PAK,Pakistan,PAK
+178,North America,NA,"Panama, Republic of",PA,PAN,PA,591,PAN,Panama,PAN
+179,Oceania,OC,"Papua New Guinea, Independent State of",PG,PNG,PG,598,PNG,Papua New Guinea,PNG
+180,South America,SA,"Paraguay, Republic of",PY,PRY,PY,600,PRY,Paraguay,PRY
+181,South America,SA,"Peru, Republic of",PE,PER,PE,604,PER,Peru,PER
+182,Asia,AS,"Philippines, Republic of the",PH,PHL,PH,608,PHL,Philippines,PHL
+183,Oceania,OC,Pitcairn Islands,PN,PCN,PN,612,PCN,Pitcairn,PCN
+184,Europe,EU,"Poland, Republic of",PL,POL,PL,616,POL,Poland,POL
+185,Europe,EU,"Portugal, Portuguese Republic",PT,PRT,PT,620,PRT,Portugal,PRT
+186,Africa,AF,"Guinea-Bissau, Republic of",GW,GNB,GW,624,GNB,Guinea-Bissau,GNB
+187,Asia,AS,"Timor-Leste, Democratic Republic of",TL,TLS,TL,626,TLS,Timor-Leste,TLS
+188,North America,NA,"Puerto Rico, Commonwealth of",PR,PRI,PR,630,PRI,Puerto Rico,PRI
+189,Asia,AS,"Qatar, State of",QA,QAT,QA,634,QAT,Qatar,QAT
+190,Africa,AF,Reunion,RE,REU,RE,638,REU,Reunion,REU
+191,Europe,EU,Romania,RO,ROU,RO,642,ROU,Romania,ROU
+192,Europe,EU,Russian Federation,RU,RUS,RU,643,RUS,Russia,RUS
+193,Asia,AS,Russian Federation,RU,RUS,RU,643,RUS,Russia,RUS
+194,Africa,AF,"Rwanda, Republic of",RW,RWA,RW,646,RWA,Rwanda,RWA
+195,North America,NA,Saint Barthelemy,BL,BLM,BL,652,BLM,Saint Barth?emy,BLM
+196,Africa,AF,Saint Helena,SH,SHN,SH,654,SHN,"Saint Helena, Ascension and Tristan da Cunha",SHN
+197,North America,NA,"Saint Kitts and Nevis, Federation of",KN,KNA,KN,659,KNA,Saint Kitts and Nevis,KNA
+198,North America,NA,Anguilla,AI,AIA,AI,660,AIA,Anguilla,AIA
+199,North America,NA,Saint Lucia,LC,LCA,LC,662,LCA,Saint Lucia,LCA
+200,North America,NA,Saint Martin,MF,MAF,MF,663,MAF,Saint Martin (French part),MAF
+201,North America,NA,Saint Pierre and Miquelon,PM,SPM,PM,666,SPM,Saint Pierre and Miquelon,SPM
+202,North America,NA,Saint Vincent and the Grenadines,VC,VCT,VC,670,VCT,Saint Vincent and the Grenadines,VCT
+203,Europe,EU,"San Marino, Republic of",SM,SMR,SM,674,SMR,San Marino,SMR
+204,Africa,AF,"Sao Tome and Principe, Democratic Republic of",ST,STP,ST,678,STP,Sao Tome and Principe,STP
+205,Asia,AS,"Saudi Arabia, Kingdom of",SA,SAU,SA,682,SAU,Saudi Arabia,SAU
+206,Africa,AF,"Senegal, Republic of",SN,SEN,SN,686,SEN,Senegal,SEN
+207,Europe,EU,"Serbia, Republic of",RS,SRB,RS,688,SRB,Serbia,SRB
+208,Africa,AF,"Seychelles, Republic of",SC,SYC,SC,690,SYC,Seychelles,SYC
+209,Africa,AF,"Sierra Leone, Republic of",SL,SLE,SL,694,SLE,Sierra Leone,SLE
+210,Asia,AS,"Singapore, Republic of",SG,SGP,SG,702,SGP,Singapore,SGP
+211,Europe,EU,Slovakia (Slovak Republic),SK,SVK,SK,703,SVK,Slovakia,SVK
+212,Asia,AS,"Vietnam, Socialist Republic of",VN,VNM,VN,704,VNM,Viet Nam,VNM
+213,Europe,EU,"Slovenia, Republic of",SI,SVN,SI,705,SVN,Slovenia,SVN
+214,Africa,AF,"Somalia, Somali Republic",SO,SOM,SO,706,SOM,Somalia,SOM
+215,Africa,AF,"South Africa, Republic of",ZA,ZAF,ZA,710,ZAF,South Africa,ZAF
+216,Africa,AF,"Zimbabwe, Republic of",ZW,ZWE,ZW,716,ZWE,Zimbabwe,ZWE
+217,Europe,EU,"Spain, Kingdom of",ES,ESP,ES,724,ESP,Spain,ESP
+218,Africa,AF,South Sudan,SS,SSD,SS,728,SSD,South Sudan,SSD
+219,Africa,AF,Western Sahara,EH,ESH,EH,732,ESH,Western Sahara,ESH
+220,Africa,AF,"Sudan, Republic of",SD,SDN,SD,736,SDN,Sudan,SDN
+221,South America,SA,"Suriname, Republic of",SR,SUR,SR,740,SUR,Suriname,SUR
+222,Europe,EU,Svalbard & Jan Mayen Islands,SJ,SJM,SJ,744,SJM,Svalbard and Jan Mayen,SJM
+223,Africa,AF,"Swaziland, Kingdom of",SZ,SWZ,SZ,748,SWZ,Swaziland,SWZ
+224,Europe,EU,"Sweden, Kingdom of",SE,SWE,SE,752,SWE,Sweden,SWE
+225,Europe,EU,"Switzerland, Swiss Confederation",CH,CHE,CH,756,CHE,Switzerland,CHE
+226,Asia,AS,Syrian Arab Republic,SY,SYR,SY,760,SYR,Syria,SYR
+227,Asia,AS,"Tajikistan, Republic of",TJ,TJK,TJ,762,TJK,Tajikistan,TJK
+228,Asia,AS,"Thailand, Kingdom of",TH,THA,TH,764,THA,Thailand,THA
+229,Africa,AF,"Togo, Togolese Republic",TG,TGO,TG,768,TGO,Togo,TGO
+230,Oceania,OC,Tokelau,TK,TKL,TK,772,TKL,Tokelau,TKL
+231,Oceania,OC,"Tonga, Kingdom of",TO,TON,TO,776,TON,Tonga,TON
+232,North America,NA,"Trinidad and Tobago, Republic of",TT,TTO,TT,780,TTO,Trinidad and Tobago,TTO
+233,Asia,AS,United Arab Emirates,AE,ARE,AE,784,ARE,United Arab Emirates,ARE
+234,Africa,AF,"Tunisia, Tunisian Republic",TN,TUN,TN,788,TUN,Tunisia,TUN
+235,Europe,EU,"Turkey, Republic of",TR,TUR,TR,792,TUR,Turkey,TUR
+236,Asia,AS,"Turkey, Republic of",TR,TUR,TR,792,TUR,Turkey,TUR
+237,Asia,AS,Turkmenistan,TM,TKM,TM,795,TKM,Turkmenistan,TKM
+238,North America,NA,Turks and Caicos Islands,TC,TCA,TC,796,TCA,Turks and Caicos Islands,TCA
+239,Oceania,OC,Tuvalu,TV,TUV,TV,798,TUV,Tuvalu,TUV
+240,Africa,AF,"Uganda, Republic of",UG,UGA,UG,800,UGA,Uganda,UGA
+241,Europe,EU,Ukraine,UA,UKR,UA,804,UKR,Ukraine,UKR
+242,Europe,EU,"Macedonia, The Former Yugoslav Republic of",MK,MKD,MK,807,MKD,Macedonia,MKD
+243,Africa,AF,"Egypt, Arab Republic of",EG,EGY,EG,818,EGY,Egypt,EGY
+244,Europe,EU,United Kingdom of Great Britain & Northern Ireland,GB,GBR,GB,826,GBR,United Kingdom,GBR
+245,Europe,EU,"Guernsey, Bailiwick of",GG,GGY,GG,831,GGY,Guernsey,GGY
+246,Europe,EU,"Jersey, Bailiwick of",JE,JEY,JE,832,JEY,Jersey,JEY
+247,Europe,EU,Isle of Man,IM,IMN,IM,833,IMN,Isle of Man,IMN
+248,Africa,AF,"Tanzania, United Republic of",TZ,TZA,TZ,834,TZA,Tanzania,TZA
+249,North America,NA,United States of America,US,USA,US,840,USA,United States,USA
+250,North America,NA,United States Virgin Islands,VI,VIR,VI,850,VIR,"Virgin Islands, U.S.",VIR
+251,Africa,AF,Burkina Faso,BF,BFA,BF,854,BFA,Burkina Faso,BFA
+252,South America,SA,"Uruguay, Eastern Republic of",UY,URY,UY,858,URY,Uruguay,URY
+253,Asia,AS,"Uzbekistan, Republic of",UZ,UZB,UZ,860,UZB,Uzbekistan,UZB
+254,South America,SA,"Venezuela, Bolivarian Republic of",VE,VEN,VE,862,VEN,Venezuela,VEN
+255,Oceania,OC,Wallis and Futuna,WF,WLF,WF,876,WLF,Wallis and Futuna,WLF
+256,Oceania,OC,"Samoa, Independent State of",WS,WSM,WS,882,WSM,Samoa,WSM
+257,Asia,AS,Yemen,YE,YEM,YE,887,YEM,Yemen,YEM
+258,Africa,AF,"Zambia, Republic of",ZM,ZMB,ZM,894,ZMB,Zambia,ZMB

@@ -1,0 +1,2 @@
+- DrawFig_Global.R: the script to draw figure 1bcd
+- fig1bcd.pdf: the output of the figure
